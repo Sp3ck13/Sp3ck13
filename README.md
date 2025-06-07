@@ -4,11 +4,10 @@
 ---
 
 ## 🧠 About Me
-- 🎓 I'm currently studying **Cyber Security**
-- 🕵️ Passionate about **Digital Forensics**
-- 💡 Love diving into new technologies & tools
-- 🧰 Enjoy building things with **Python, Docker, Electron, C, ...**
-- 📫 How to reach me: [Your Email or LinkedIn]
+- I'm currently studying **Cyber Security**
+- Passionate about **Digital Forensics**
+- Love diving into new technologies & tools
+- Enjoy building things with **Python, Docker, Electron, C, ...**
 
 ---
 
@@ -29,24 +28,17 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sp3ck13&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sp3ck13&layout=compact&theme=radical" width="45%" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streaks
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sp3ck13&theme=radical" width="60%" />
 </p>
 
 ---
-
-## ☕ Support Me
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourlink" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?logo=buymeacoffee&style=for-the-badge&logoColor=white" />
-  </a>
-</p>
 
 
