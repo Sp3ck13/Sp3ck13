@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Pictures/Banner-github.png" style="width:100%; aspect-ratio:16/9; object-fit: cover;" />
+  <img src="Picture/Banner-github.png" style="width:100%; aspect-ratio:16/9" />
 </p>
 
 <h1 align="center">Hey, I'm a Cyber Security Student</h1>
