@@ -24,7 +24,7 @@
 
 ---
 
-<!-- Programming Languages -->
+<!-- Programming -->
 <h2 style="color:#bb9af7;">Programming</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
@@ -73,7 +73,7 @@
 
 ---
 
-<!-- OS Context -->
+<!-- OS in Forensics -->
 <h2 style="color:#bb9af7;">Operating Systems in Forensic Context</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-555555?style=for-the-badge&logo=apple&logoColor=white" />
