@@ -1,10 +1,10 @@
+
 <p align="center">
-  <img src="/Picture/Banner-github.png" width="100%" />
+  <img src="Pictures/Banner-github.png" style="width:100%; aspect-ratio:16/9; object-fit: cover;" />
 </p>
 
 <h1 align="center">Hey, I'm a Cyber Security Student</h1>
 <h3 align="center">DFIR Enthusiast • Tech Interested • Always Exploring</h3>
-
 
 ---
 
