@@ -1,6 +1,6 @@
 <!-- Banner (16:9) -->
 <p align="center">
-  <img src="Picture/Banner-github.png" style="width:100%; aspect-ratio:16/9; object-fit: cover; border-radius: 12px;" />
+  <img src="/Picture/Banner-github.jpg" style="width:100%" />
 </p>
 
 <!-- Headline -->
