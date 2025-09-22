@@ -68,7 +68,6 @@
   <img src="https://img.shields.io/badge/Nmap-2E8B57?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Autopsy-333366?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/The%20Sleuth%20Kit-444444?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/FTK%20Imager-004d7a?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
