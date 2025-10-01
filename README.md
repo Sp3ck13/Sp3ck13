@@ -16,10 +16,9 @@
 <!-- About Me -->
 <h2 style="color:#bb9af7;">About Me 🦦 </h2>
 <ul>
-  <li>I'm currently studying <strong>Cyber Security</strong></li>
-  <li>Passionate about <strong>Digital Forensics</strong></li>
+  <li>I'm currently studying <strong>Cyber Security</strong> with Major in <strong> Digital Forensic and Incident Response </strong> </li>
+  <li>Passionate about <strong>Digital Forensics</strong> and <strong> OSINT </strong> </li>
   <li>Love diving into new technologies & tools</li>
-  <li>Enjoy building things with <strong>Python, Docker, Electron, C, ...</strong></li>
 </ul>
 
 ---
