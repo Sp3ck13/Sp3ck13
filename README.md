@@ -98,10 +98,6 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/macOS-555555?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-268BDA?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Parrot%20OS-1dd7c1?style=for-the-badge&logo=parrotsecurity&logoColor=black" />
-</p>
 
 <h3 style="color:#9d7cd8;">Mobile Forensics</h3>
 <p align="center">
