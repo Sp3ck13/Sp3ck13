@@ -23,9 +23,8 @@
 </ul>
 
 ---
-
-<!-- Programming -->
-<h2 style="color:#bb9af7;">Programming</h2>
+<!-- Programming Languages -->
+<h2 style="color:#bb9af7;">Programming Languages</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />
@@ -35,29 +34,42 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" title="Bash" />
   <img src="https://img.shields.io/badge/Zsh-89e051?style=for-the-badge&logo=gnubash&logoColor=black" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
-
 
 ---
 
-<!-- Tools & Applications -->
-<h2 style="color:#bb9af7;">Tools & Applications</h2>
+<!-- Development Tools -->
+<h2 style="color:#bb9af7;">Development Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-31A8FF?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/LazyVim-5e81ac?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Marta-1f2335?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+<!-- Infrastructure & DevOps -->
+<h2 style="color:#bb9af7;">Infrastructure & DevOps</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Podman-89CFF0?style=for-the-badge&logo=podman&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+---
+
+<!-- Utilities -->
+<h2 style="color:#bb9af7;">Utilities</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Marta-1f2335?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Keka-7e57c2?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
 ---
@@ -79,12 +91,21 @@
 
 ---
 
-<!-- OS in Forensics -->
-<h2 style="color:#bb9af7;">Operating Systems in Forensic Context</h2>
+<!-- Operating Systems - Desktop -->
+<h2 style="color:#bb9af7;">Operating Systems - Desktop Forensics</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/macOS-555555?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-555555?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-268BDA?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Parrot%20OS-1dd7c1?style=for-the-badge&logo=parrotsecurity&logoColor=black" />
+</p>
+
+---
+
+<!-- Operating Systems - Mobile -->
+<h2 style="color:#bb9af7;">Operating Systems - Mobile Forensics</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
