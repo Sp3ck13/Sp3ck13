@@ -45,7 +45,7 @@
 ---
 
 <!-- Web Technologies -->
-<h2 style="color:#bb9af7;">Web Technologies</h2>
+<h2 style="color:#bb9af7;">Web Technologie</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
