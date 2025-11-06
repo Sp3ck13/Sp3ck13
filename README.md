@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/Volatility-C0392B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Sam%20Spade-D35400?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Cellebrite-0078D4?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sumuri%20ITR-00A86B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sumuri%20Recon%20ITR-00A86B?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
