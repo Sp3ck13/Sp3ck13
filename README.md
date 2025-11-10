@@ -8,7 +8,7 @@
   Hey, I'm a Cyber Security Student
 </h1>
 <h3 align="center" style="color:#c0caf5; font-weight: normal;">
-  DFIR & OSINT Enthusiast • Tech Interested • Always Exploring
+  DFIR & OSINT • Tech Interested 
 </h3>
 
 <hr style="border: 1px solid #3b4261;" />
