@@ -15,7 +15,7 @@
 <!-- About Me -->
 <h2 style="color:#bb9af7;">About Me 🦦</h2>
 <ul>
-  <li>I'm currently studying <strong>Cyber Security</strong> with a focus on <strong>Digital Forensics &amp; </li>
+  <li>I'm currently studying <strong>Cyber Security</strong> with a focus on <strong>Digital Forensics </li>
   <li>Passionate about <strong>Data Science</strong> and <strong>Data Analysis</strong>  turning raw data into actionable insights</li>
   <li>Interested in the intersection of <strong>Security</strong> and <strong>Data</strong>: log analysis, threat hunting &amp; forensic data pipelines</li>
   <li>Love diving into new technologies, tools &amp; datasets</li>
