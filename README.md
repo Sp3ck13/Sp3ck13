@@ -4,7 +4,7 @@
 </p>
 
 <!-- Headline -->
-<h1 alight="center" style="color:#7aa2f7; font-family: 'Segoe UI', sans-serif;">
+<h1 align="center" style="color:#7aa2f7; font-family: 'Segoe UI', sans-serif;">
   Hey, I'm a Cyber Security Student
 </h1>
 <h3 align="center" style="color:#c0caf5; font-weight: normal;">
@@ -15,8 +15,8 @@
 <!-- About Me -->
 <h2 style="color:#bb9af7;">About Me 🦦</h2>
 <ul>
-  <li>I'm currently studying <strong>Cyber Security</strong> with a focus on <strong>Digital Forensics </li>
-  <li>Passionate about <strong>Data Science</strong> and <strong>Data Analysis</strong>  turning raw data into actionable insights</li>
-  <li>Interested in the intersection of <strong>Security</strong> and <strong>Data</strong>: log analysis, threat hunting &amp; forensic data pipelines</li>
+  <li>I'm currently studying <strong>Cyber Security</strong> with a focus on <strong>Digital Forensics</strong></li>
+  <li>Passionate about <strong>Data Science</strong> and <strong>Data Analysis</strong>, turning raw data into actionable insights</li>
+  <li>Interested in exploring how <strong>Data Science</strong> can support and improve <strong>emergency services</strong> as well as its broader applications across different fields</li>
   <li>Love diving into new technologies, tools &amp; datasets</li>
 </ul>
