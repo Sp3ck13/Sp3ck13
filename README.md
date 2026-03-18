@@ -4,11 +4,11 @@
 </p>
 
 <!-- Headline -->
-<h1 align="center" style="color:#7aa2f7; font-family: 'Segoe UI', sans-serif;">
+<h1 alight="center" style="color:#7aa2f7; font-family: 'Segoe UI', sans-serif;">
   Hey, I'm a Cyber Security Student
 </h1>
 <h3 align="center" style="color:#c0caf5; font-weight: normal;">
-  DFIR &amp; OSINT &nbsp;•&nbsp; Data Science &amp; Analytics &nbsp;•&nbsp; Tech Interested
+  Digital Forensic &nbsp;•&nbsp; Data Science &amp; Analytics &nbsp;•&nbsp; Tech Interested
 </h3>
 <hr style="border: 1px solid #3b4261;" />
 
