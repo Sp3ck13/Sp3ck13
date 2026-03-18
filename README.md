@@ -1,6 +1,6 @@
 <!-- Banner (16:9) -->
 <p align="center">
-  <img src="/Picture/github_banner_cybersec_datascience.jpg" style="width:100%" />
+  <img src="/Picture/github_banner_cybersec_datascience.png" style="width:100%" />
 </p>
 
 <!-- Headline -->
